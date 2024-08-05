@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='utb_test_package',
-    version='0.1.0',
+    version='0.2.0',
     author='Artem Mikhaylov',
     author_email='utb404@gmail.com',
     description='Краткое описание вашего пакета',
